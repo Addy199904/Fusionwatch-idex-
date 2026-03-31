@@ -7,6 +7,7 @@ T# FusionWatch v0.1
 
 ![FusionWatch Detection](demo/P2239_fw100ep.jpg)
 
+Best pt-- https://drive.google.com/file/d/1r3139Dvb3GLn988VkOwMxTzsDk6a-1HK/view?usp=drive_link
 ---
 
 ## Live Detection Results
